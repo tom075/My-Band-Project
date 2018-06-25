@@ -7,7 +7,7 @@
    
 ### Uniek aan dit concept is: 
  * Mijn site gaat over hardwell en al zijn nummers
- * Mijn site heeft een heel mooi design en alle informatie is geimporteert vanuit de database
+ * Mijn site heeft een heel mooi design en alle informatie is geimporteerd vanuit de database
 
 ---
 #### Milestones Fase 1
