@@ -1,0 +1,14 @@
+
+body, html {
+    margin: 0;
+    padding: 0;
+    background: black;
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    width: 100%;
+    background: url("../images/background.jpg") no-repeat;
+
+    background-position: center;
+    background-size: cover;
+}
+
