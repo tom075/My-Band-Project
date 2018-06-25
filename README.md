@@ -11,23 +11,15 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
 | Milestone  | Status | Link | 
 | ------ |  ------ | ------ |
 | readme                         | DONE |  [readme.md]            | 
-| b1-k1-w1 debriefing            | TODO | [Debriefing]            |
-| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | 
-| b1-k1-w2 Urenschatting         | TODO | [doc/1/urenschatting.md]|
-| b1-k1-w2 Planning              | TODO | [doc/1/planning.md]     |
-| b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | 
-| b1-k1-w2 Sfeer impressie       | TODO | [doc/1/moodboard]       | 
-| b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    |
-| b1-k1-w2 FLowChart             | TODO | [Flow]                  | 
-| b1-k1-w2 prototype             | TODO | [axShare]               |
+| debriefing                     | TODO | [Debriefing]            |
+| plan van aanpak                | TODO | [Plan_van_aanpak]       | 
+| schets                         | TODO | [schets]                |
+| functioneel ontwerp            | TODO | [Functioneel_ontwerp]   |
+| back-log                       | TODO | [back_log]              | 
 
-   [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
-   [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
-   [Debriefing]: <https://docs.google.com/document/u/0/>
-   [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
-   [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
-   [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
-   [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
-   [FO]: <https://github.com/jouwgithub/doc/1/FO.md>
-   [Flow]: <https://github.com/jouwgithub/doc/1/flow.svg>
-   [axShare]: <http://w2d1bw.axshare.com/>
+   [readme.md]: <https://github.com/tom075/My-Band-Project/blob/master/README.md>
+   [Debriefing]: <https://github.com/tom075/My-Band-Project/blob/master/documentatie/Debriefing%20My%20Band.pdf>
+   [Plan_van_aanpak]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
+   [schets]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
+   [Functioneel_ontwerp]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
+   [back_log]: <https://www.google.nl/search?q=moodboard&tbm=isch>
