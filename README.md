@@ -1,9 +1,9 @@
 ## My Band
-|[My_Band]| is een website van Tom Folkers waar gebruikers kunnen reageren op nieuws berichten bedoeld voor mensen die van electronische muziek houden. De website is enigszins te vergelijken met |[djmag]| of |[Digital_DJ]| maar toch anders omdat (..uniek aspect..)
+[My_Band] is een website van Tom Folkers waar gebruikers kunnen reageren op nieuws berichten bedoeld voor mensen die van electronische muziek houden. De website is enigszins te vergelijken met [djmag] of [Digital_DJ] maar toch anders omdat (..uniek aspect..)
 
-   [My_Band] <http://volnion.nl/bewijzenmap/periode1.4/proj/opdracht2/public/>
-   [djmag] <https://djmag.nl>
-   [Digital_DJ] <https://www.digitaldjtips.com/category/news/latest/>
+   [My_Band]: <http://volnion.nl/bewijzenmap/periode1.4/proj/opdracht2/public/>
+   [djmag]: <https://djmag.nl>
+   [Digital_DJ]: <https://www.digitaldjtips.com/category/news/latest/>
    
 ### Uniek aan dit concept is: 
  * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
