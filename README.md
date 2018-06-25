@@ -19,7 +19,7 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
 
    [readme.md]: <https://github.com/tom075/My-Band-Project/blob/master/README.md>
    [Debriefing]: <https://github.com/tom075/My-Band-Project/blob/master/documentatie/Debriefing%20My%20Band.pdf>
-   [Plan_van_aanpak]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
+   [Plan_van_aanpak]: <https://github.com/tom075/My-Band-Project/blob/master/documentatie/Plan%20van%20aanpak.pdf>
    [schets]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
    [Functioneel_ontwerp]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
    [back_log]: <https://www.google.nl/search?q=moodboard&tbm=isch>
