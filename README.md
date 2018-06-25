@@ -19,9 +19,9 @@
    [readme.md]: <https://github.com/tom075/My-Band-Project/blob/master/README.md>
    [Debriefing]: <https://github.com/tom075/My-Band-Project/blob/master/documentatie/Debriefing%20My%20Band.pdf>
    [Plan_van_aanpak]: <https://github.com/tom075/My-Band-Project/blob/master/documentatie/Plan%20van%20aanpak.pdf>
-   [schets]: <>
-   [Functioneel_ontwerp]: <>
-   [back_log]: <>
+   [schets]: <http://www.google.nl>
+   [Functioneel_ontwerp]: <http://www.google.nl>
+   [back_log]: <http://www.google.nl>
    [My_Band] <http://volnion.nl/bewijzenmap/periode1.4/proj/opdracht2/public/>
    [djmag] <https://djmag.nl>
    [Digital_DJ] <https://www.digitaldjtips.com/category/news/latest/>
