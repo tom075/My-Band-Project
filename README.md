@@ -14,8 +14,8 @@
 | taak  | Status | Link | 
 | ------ |  ------ | ------ |
 | readme                         | DONE |  [readme.md]            | 
-| debriefing                     | TODO | [Debriefing]            |
-| plan van aanpak                | TODO | [Plan_van_aanpak]       | 
+| debriefing                     | DONE | [Debriefing]            |
+| plan van aanpak                | DONE | [Plan_van_aanpak]       | 
 | schets                         | TODO | [schets]                |
 | functioneel ontwerp            | TODO | [Functioneel_ontwerp]   |
 | back-log                       | TODO | [back_log]              | 
