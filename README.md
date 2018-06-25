@@ -2,21 +2,19 @@
 www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
 De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
 
-### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
-
 ---
+#### Milestones Fase 1
+| Milestone  | Status | Link | 
 | ------ |  ------ | ------ |
-| readme                         | DONE |  [readme.md]        |  
-| b1-k1-w1 debriefing            | TODO | [Debriefing]        |    
-| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md]| 
+| readme                         | DONE |  [readme.md]            | 
+| b1-k1-w1 debriefing            | TODO | [Debriefing]            |
+| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | 
 | b1-k1-w2 Urenschatting         | TODO | [doc/1/urenschatting.md]|
 | b1-k1-w2 Planning              | TODO | [doc/1/planning.md]     |
-| b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         |
-| b1-k1-w2 Sfeer impressie       | TODO | [doc/1/moodboard]       |
+| b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | 
+| b1-k1-w2 Sfeer impressie       | TODO | [doc/1/moodboard]       | 
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    |
-| b1-k1-w2 FLowChart             | TODO | [Flow]                  |
+| b1-k1-w2 FLowChart             | TODO | [Flow]                  | 
 | b1-k1-w2 prototype             | TODO | [axShare]               |
 
    [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
