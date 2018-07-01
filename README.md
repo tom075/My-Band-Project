@@ -17,7 +17,7 @@
 | debriefing                     | DONE | [Debriefing]            |
 | plan van aanpak                | DONE | [Plan_van_aanpak]       | 
 | schets                         | TODO | [schets]                |
-| Styleboard                     | TODO | [Styleboard]            | 
+| Styleboard                     | DONE | [Styleboard]            | 
 | functioneel ontwerp            | TODO | [Functioneel_ontwerp]   |
 | back-log                       | TODO | [back_log]              | 
 
@@ -27,4 +27,4 @@
    [schets]: <http://www.google.nl>
    [Functioneel_ontwerp]: <http://www.google.nl>
    [back_log]: <http://www.google.nl>
-   [Styleboard]: <>
+   [Styleboard]: <https://github.com/tom075/My-Band-Project/blob/master/documentatie/styleboard.jpg>
