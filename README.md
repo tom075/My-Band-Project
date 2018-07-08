@@ -16,15 +16,15 @@
 | readme                         | DONE |  [readme.md]            | 
 | debriefing                     | DONE | [Debriefing]            |
 | plan van aanpak                | DONE | [Plan_van_aanpak]       | 
-| schets                         | TODO | [schets]                |
+| schets                         | DONE | [schets]                |
 | Styleboard                     | DONE | [Styleboard]            | 
-| functioneel ontwerp            | TODO | [Functioneel_ontwerp]   |
+| functioneel ontwerp            | DONE | [Functioneel_ontwerp]   |
 | back-log                       | TODO | [back_log]              | 
 
    [readme.md]: <https://github.com/tom075/My-Band-Project/blob/master/README.md>
    [Debriefing]: <https://github.com/tom075/My-Band-Project/blob/master/documentatie/Debriefing%20My%20Band.pdf>
    [Plan_van_aanpak]: <https://github.com/tom075/My-Band-Project/blob/master/documentatie/Plan%20van%20aanpak.pdf>
-   [schets]: <http://www.google.nl>
-   [Functioneel_ontwerp]: <http://www.google.nl>
+   [schets]: <https://rdz3e7.axshare.com>
+   [Functioneel_ontwerp]: <https://rdz3e7.axshare.com>
    [back_log]: <http://www.google.nl>
    [Styleboard]: <https://github.com/tom075/My-Band-Project/blob/master/documentatie/styleboard.jpg>
