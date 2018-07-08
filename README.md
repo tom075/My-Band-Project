@@ -25,6 +25,6 @@
    [Debriefing]: <https://github.com/tom075/My-Band-Project/blob/master/documentatie/Debriefing%20My%20Band.pdf>
    [Plan_van_aanpak]: <https://github.com/tom075/My-Band-Project/blob/master/documentatie/Plan%20van%20aanpak.pdf>
    [schets]: <https://rdz3e7.axshare.com>
-   [Functioneel_ontwerp]: <https://rdz3e7.axshare.com>
+   [Functioneel_ontwerp]: <https://github.com/tom075/My-Band-Project/blob/master/documentatie/flowchart.pdf>
    [back_log]: <http://www.google.nl>
    [Styleboard]: <https://github.com/tom075/My-Band-Project/blob/master/documentatie/styleboard.jpg>
