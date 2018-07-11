@@ -1,5 +1,6 @@
 .topnav {
     overflow: hidden;
+    background: linear-gradient(#34f315,white);
 }
 
 input:focus {
@@ -16,6 +17,7 @@ input:focus {
 .input {
     background: none;
     border: none;
+    color: black;
 }
 
 ::placeholder {
@@ -27,11 +29,11 @@ input:focus {
 .topnav a {
     float: right;
     display: block;
-    color: black;
     text-align: center;
     margin: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    color: black;
 
 }
 
@@ -74,3 +76,12 @@ input:focus {
     }
 
     }
+
+.fa-search{
+    color: black;
+}
+
+#sub_button{
+    background: transparent;
+    border: none !important;
+}

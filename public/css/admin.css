@@ -1,0 +1,23 @@
+.admin_td{
+    width: 200px;
+    height: 100px;
+    max-height: 100px;
+    max-width: 400px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    border: 1px solid black;
+
+}
+
+table{
+    text-align: left;
+    border: 1px solid black;
+    color: #000;
+
+}
+
+.admin_image{
+    height: 100px;
+    width: 100px;
+}
