@@ -2,7 +2,7 @@
 
 
 function make_connection(){
-    $mysqli = new mysqli('localhost', 'volnion_MyBand', 'Tomfolkers1', 'volnion_MyBand');
+    $mysqli = new mysqli('localhost', 'volnion_MyBand', '*********', 'volnion_MyBand');
     if ($mysqli->connect_errno){
         die('Connection error: ' . $mysqli->connect_errno . '<br>');
     }
