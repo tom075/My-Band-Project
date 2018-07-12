@@ -106,6 +106,8 @@ function edit_action(){
 
 
 
-
+function contact_send(){
+    send_message();
+}
 
 

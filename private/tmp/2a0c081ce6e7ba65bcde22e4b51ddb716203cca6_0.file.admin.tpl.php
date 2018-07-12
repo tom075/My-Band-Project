@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-07-11 09:37:00
+/* Smarty version 3.1.32, created on 2018-07-12 09:28:27
   from '/Users/tomfolkers/Documents/projecten/My_Band/private/views/admin.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b45b39c832618_48278322',
+  'unifunc' => 'content_5b47031b606936_35990442',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '2a0c081ce6e7ba65bcde22e4b51ddb716203cca6' => 
     array (
       0 => '/Users/tomfolkers/Documents/projecten/My_Band/private/views/admin.tpl',
-      1 => 1531294620,
+      1 => 1531380487,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5b45b39c832618_48278322 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5b47031b606936_35990442 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 
@@ -35,7 +35,6 @@ function content_5b45b39c832618_48278322 (Smarty_Internal_Template $_smarty_tpl)
             <th>plaatje</th>
             <th>titiel</th>
             <th>content</th>
-            <th>edit</th>
             <th>delete</th>
 
         </tr>
@@ -52,10 +51,6 @@ foreach ($_from as $_smarty_tpl->tpl_vars['article_admin']->value) {
 </td>
             <td class="admin_td"><?php echo $_smarty_tpl->tpl_vars['article_admin']->value[1];?>
 </td>
-            <td class="admin_td"><a href="index.php?page=edit&title=<?php echo $_smarty_tpl->tpl_vars['article_admin']->value[0];?>
-&content=<?php echo $_smarty_tpl->tpl_vars['article_admin']->value[1];?>
-&image=<?php echo $_smarty_tpl->tpl_vars['article_admin']->value[2];?>
-">EDIT</a></td>
             <td class="admin_td"><a href="index.php?page=delete&id=<?php echo $_smarty_tpl->tpl_vars['article_admin']->value[2];?>
 ">DELETE</a></td>
 

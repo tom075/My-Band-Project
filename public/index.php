@@ -26,6 +26,9 @@ if (isset($_POST['submit_login'])){
 if (isset($_POST['submit_upload'])){
     procces_upload_action();
 }
+if (isset($_POST['contact_submit'])){
+    contact_send();
+}
 
 
 

@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="css/home.css">
     <link rel="stylesheet" href="css/news.css">
     <link rel="stylesheet" href="css/admin.css">
+    <link rel="stylesheet" href="css/contact.css">
 
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <title>Hardwell - My Band</title>

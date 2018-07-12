@@ -1,3 +1,4 @@
-<script src="javascript/script.js"></script>
+<script type="text/javascript" src="javaScript/script.js"></script>
+
 </body>
 </html>

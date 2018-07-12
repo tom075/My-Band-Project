@@ -133,7 +133,7 @@ function upload_procces(){
     }
 
 }
- 
+
 
 function delete_procces(){
 
@@ -195,6 +195,18 @@ function admin_page_counter(){
 
 
 
+}
+
+function send_message(){
+    $naam = $_POST['contact_name'];
+    $mail = $_POST['contact_email'];
+    $message = $_POST['contact_message'];
+
+
+
+    mail('24825@ma-web.nl', $naam . " " . $mail, $message);
+
+    echo "uw bericht is verzonden";
 }
 
 
