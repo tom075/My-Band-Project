@@ -1,6 +1,9 @@
 ## My Band
 [My_Band] is een website van Tom Folkers waar gebruikers kunnen reageren op nieuws berichten bedoeld voor mensen die van electronische muziek houden. De website is enigszins te vergelijken met [djmag] of [Digital_DJ] maar toch anders omdat mijn site over hardwell gaat en omdat ik al zijn nummers op een aparte pagina heb staan.
 
+
+index.php?page=admin - de admin page - login = admin pass = admin
+
    [My_Band]: <http://volnion.nl/bewijzenmap/periode1.4/proj/opdracht2/public/>
    [djmag]: <https://djmag.nl>
    [Digital_DJ]: <https://www.digitaldjtips.com/category/news/latest/>
